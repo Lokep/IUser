@@ -44,7 +44,7 @@ jobs:
       #       # 腾讯云默认用户名为root
       #       REMOTE_USER: "root" 
       #       # 目标目录
-      #       TARGET: "/home/lokep/IUser/dist" 
+      #       TARGET: "/home/lokep/IUser/dist"  
 
       # Deploy
       - name: Deploy
