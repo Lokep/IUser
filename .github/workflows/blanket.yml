@@ -39,4 +39,4 @@ jobs:
           SOURCE: "build/"
           REMOTE_HOST: ${{ secrets.HOST }}
           REMOTE_USER: ${{ secrets.USER }}
-          TARGET: ${{ secrets.TARGET }}
+          TARGET: ${{ secrets.TARGET }} 
